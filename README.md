@@ -3,10 +3,11 @@
 ## Team Name: Rankbusters
 
 ### Team Members:
+- Shamit Kotak
 - Pradyum Mohta
 - Fuad Khasiyev
 - Ansh Dugar
-- Shamit Kotak
+
 
 ---
 
